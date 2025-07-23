@@ -1,5 +1,14 @@
 # 🚀 AI-Powered Telegram Lead Generation Bot | n8n Workflow
 
+<img width="960" height="505" alt="Lead Gen work" src="https://github.com/user-attachments/assets/a3e6bc7c-7e01-44c8-a333-426ebf29cff1" />
+
+<img width="960" height="505" alt="Lead Gen Scrapper" src="https://github.com/user-attachments/assets/d3f55992-b74c-4e18-a57b-10d8e76acac4" />
+
+<img width="960" height="505" alt="Lead Gen Bot" src="https://github.com/user-attachments/assets/5f4b5169-f47f-4015-8f96-7ed6d2b3d35d" />
+
+
+
+
 ---
 
 ## 📚 Table of Contents
