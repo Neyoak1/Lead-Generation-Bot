@@ -8,7 +8,6 @@
 - [Tech Stack](#tech-stack)
 - [How It Works](#how-it-works)
 - [Use Cases](#use-cases)
-- [Getting Started](#getting-started)
 - [Contributing](#contributing)
 
 ---
