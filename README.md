@@ -1,7 +1,5 @@
 # 🚀 AI-Powered Telegram Lead Generation Bot | n8n Workflow
 
-This project is a smart Telegram bot designed for **automated lead generation**. Built using **n8n**, the bot leverages **Google Gemini**, memory modules, and a **leadscraper tool** to identify and respond to lead opportunities — all from within a Telegram chat.
-
 ---
 
 ## 📚 Table of Contents
@@ -10,6 +8,7 @@ This project is a smart Telegram bot designed for **automated lead generation**.
 - [Tech Stack](#tech-stack)
 - [How It Works](#how-it-works)
 - [Use Cases](#use-cases)
+- [Getting Started](#getting-started)
 - [Contributing](#contributing)
 
 ---
@@ -37,4 +36,32 @@ It's ideal for small businesses, marketers, or solo founders who want to automat
 - [n8n](https://n8n.io) – Workflow Automation  
 - [Telegram Bot API](https://core.telegram.org/bots/api)  
 - Google Gemini (Chat + Intelligence)  
-- L
+- LeadScraper (Custom tool)  
+- Simple Memory Tool (local session context)
+
+---
+
+## How It Works
+
+1. **User sends a message** to your Telegram bot.
+2. **AI Agent** analyzes the message using:
+   - Google Gemini for language understanding.
+   - Simple Memory for retaining context.
+   - LeadScraper tool to fetch lead info.
+3. The agent returns a **text response**, which is sent back to Telegram.
+
+---
+
+## Use Cases
+
+- Lead generation for sales and outreach  
+- Market research via AI conversations  
+- Chatbot that offers intelligent product/service responses  
+- Lightweight CRM starter bot
+
+---
+
+
+## Contributing
+
+Want to improve the lead scraping logic or extend the memory features? Pull requests are welcome!
